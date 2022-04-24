@@ -25,3 +25,5 @@ while True:
                 cnt += 1
                 break
 print(cnt)
+
+# 시간복잡도: O(NM)
