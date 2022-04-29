@@ -1,9 +1,6 @@
 # problem-solving
 
-## Python 자료형(List, Set, Dict) 메서드 시간 복잡도(Big-O)
-- [List](#list)
-- [Set](#set)
-- [Dict](#dict)
+## Python 자료형([List](#list), [Set](#set), [Dict](#dict)) 메서드 시간 복잡도(Big-O)
 
 ### List
 | Operation     | Example       | Big-O      | Notes                             |
