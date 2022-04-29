@@ -15,7 +15,7 @@
 | Extend        | l.extend(…)   | O(len(…))  | depends only on len of extension  |
 | Construction  | list(…)       | O(len(…))  | depends on length of … iterable   |
 | check ==, !=  | l1 == l2      | O(N)       |                                   |
-| Insert        | l[a:b] = …    | O(N)       |                                   |
+| Insert        | l.insert(i, v)| O(N)       |                                   |
 | Delete        | del l[i]      | O(N)       | depends on i; O(N) in worst case  |
 | Containment   | x in/not in l | O(N)       | linearly searches list            |
 | Copy          | l.copy()      | O(N)       | Same as l[:] which is O(N)        |
