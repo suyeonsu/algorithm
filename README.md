@@ -1,3 +1,19 @@
+## 2022.8.21 update
+
+저장소를 이동했습니다.  
+8/21 부터의 기록은 아래 링크에서 볼 수 있습니다.
+
+<a href="https://github.com/suyeonsu/challenge100-codingtest-study/tree/master/suyeonsu">
+  <img src="https://user-images.githubusercontent.com/54935106/187066787-7ef70fe1-e772-4583-8bea-397bd6b4877c.png" height="35" width="35">  새 저장소 바로가기 ↩︎ 
+</a>
+
+<a href="https://suyeonsy.notion.site/32a862503b754f6fb82f412ace80e0af?v=130e6d559803453b840b5c39839a492d">
+  <img src="https://user-images.githubusercontent.com/54935106/187066811-da278e53-4b09-4e14-9f07-aea1c7daa8da.png" height="40" width="40"> 풀이노트 바로가기 ↩︎ 
+</a>
+
+---
+
+
 ## Brute Force (완전 탐색)
   ### 주로 사용되는 완전탐색 기법들
   1. 단순 Brute-Force
